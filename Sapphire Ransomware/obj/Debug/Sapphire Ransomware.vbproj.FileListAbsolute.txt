@@ -1,0 +1,14 @@
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\bin\Debug\Sapphire Ransomware.exe
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\bin\Debug\Sapphire Ransomware.pdb
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\bin\Debug\Sapphire Ransomware.xml
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire Ransomware.vbprojAssemblyReference.cache
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire_Ransomware.Form1.resources
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire_Ransomware.Resources.resources
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire Ransomware.vbproj.GenerateResource.cache
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire Ransomware.vbproj.CoreCompileInputs.cache
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire Ransomware.exe
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire Ransomware.xml
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire Ransomware.pdb
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire_Ransomware.Form2.resources
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\bin\Debug\Sapphire Ransomware.exe.config
+C:\Users\Brayden D\source\repos\Sapphire Ransomware\Sapphire Ransomware\obj\Debug\Sapphire_Ransomware.Form3.resources
